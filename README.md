@@ -5,5 +5,5 @@ This repository is a deep learning model for detecting intracranial hemorrhages 
 * Includes edited version of ResNet-50 from Andrew Ng's Coursera course. 
 
 ## File description
-### data label preprocessing: For converting given .csv file into usable label form 
-### image_preprocessing: Functions for choosing window views, generating training batches, training with ResNet-50  
+data label preprocessing: For converting given .csv file into usable label form 
+image_preprocessing: Functions for choosing window views, generating training batches, training with ResNet-50  
